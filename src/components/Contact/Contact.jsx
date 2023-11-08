@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 
 import Title from '../Title/Title'
 
@@ -30,10 +31,10 @@ function Contact() {
                  className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
               />
               <button
-                 type="button"
-                 className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+                 type="submit"
+                 className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-600 to-red-600 drop-shadow-md hover:stroke-white"
               >
-                 Work With Me
+                 Let's chat!
               </button>
            </form>
         </div>
