@@ -13,18 +13,21 @@ function Contact() {
            >
               <Title>Contact</Title>
               <input
+                 required
                  type="text"
                  name="name"
                  placeholder="Name"
                  className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
               />
               <input
+                 required
                  type="text"
                  name="email"
                  placeholder="Email"
                  className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
               />
               <textarea
+                 required
                  name="message"
                  placeholder="Message"
                  rows="10"
