@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I have been creating bugs since 2017<br>📚 I'm currently learning more about System Architecture.<br>🎯 I'm currently focusing in improving myself so I can become a TechLeader.</p>
+<p align="left">✨ I have been creating bugs since 2017<br>📚 I'm currently learning more about System Architecture.<br>
 
 ###
 
